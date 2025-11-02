@@ -37,9 +37,10 @@ A simple yet powerful Android app that demonstrates the concept of **Intents** i
 - **Min SDK:** 24+  
 
 #### 🖼️ Screenshot  
+
 | App Screen | Preview |
 |:--|:--:|
-| **Explicit Intent Example** | ![Explicit Intent Screen](https://raw.githubusercontent.com/deepakdotdevs/android-learning-apps/master/Intent/screenshots/Explicit_Screen.jpeg) |
+| **Explicit Intent Example** | <img src="https://raw.githubusercontent.com/deepakdotdevs/android-learning-apps/master/Intent/screenshots/Explicit_Screen.jpeg" alt="Explicit Intent Screen" width="250" style="border-radius:12px;"/> |
 
 > More screenshots are available in the [`Intent/screenshots`](https://github.com/deepakdotdevs/android-learning-apps/tree/master/Intent/screenshots) folder.
 
