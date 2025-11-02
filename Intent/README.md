@@ -34,7 +34,7 @@ This project shows how to pass data between Activities using Explicit Intents an
 You can view the full project explanation, code flow, and screenshots in the detailed **PDF documentation** below:  
 
 <p align="center">
-  <a href="https://github.com/deepakdotdevs/android-learning-apps/blob/master/Intent/Intent.pdf" target="_blank">
+  <a href="https://github.com/deepakdotdevs/android-learning-apps/blob/master/Intent/Intents.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄%20View%20Intent%20Project%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Intent Project PDF"/>
   </a>
 </p>
