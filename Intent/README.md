@@ -23,8 +23,8 @@ This project shows how to pass data between Activities using Explicit Intents an
 
 | Screen | Preview | Description |
 |:--|:--:|:--|
-| **Home Screen** | <img src="Intent/screenshots/Home_Screen.jpeg" width="300" alt="Home Screen"/> | 🏠 Displays the main interface where users can enter text or notes. |
-| **Explicit Intent Screen** | <img src="Intent/screenshots/Explicit_Screen.jpeg" width="300" alt="Explicit Screen"/> | 🎯 Demonstrates explicit intent — passing data from one activity to another. |
-| **Implicit Intent Screen** | <img src="Intent/screenshots/Implicit_Screen.jpeg" width="300" alt="Implicit Screen"/> | 🔗 Shows implicit intent for sharing text content via other apps. |
+| **Home Screen** | ![Home Screen](./Intent/screenshots/Home_Screen.jpeg) | 🏠 Displays the main interface where users can enter text or notes. |
+| **Explicit Intent Screen** | ![Explicit Screen](./Intent/screenshots/Explicit_Screen.jpeg) | 🎯 Demonstrates explicit intent — passing data from one activity to another. |
+| **Implicit Intent Screen** | ![Implicit Screen](./Intent/screenshots/Implicit_Screen.jpeg) | 🔗 Shows implicit intent for sharing text content via other apps. |
 
 ---
