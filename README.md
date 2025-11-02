@@ -94,7 +94,6 @@ Each subfolder will represent one complete Android app as I continue building an
 
 **👨‍💻 Deepak Jangid**  
 🎓 B.Tech CSE @ K.R. Mangalam University  
-💼 Intern @ Wyld Card (Powered by Visa)  
 📫 [LinkedIn](https://https://www.linkedin.com/in/deepak-jangid-89954a317/) • [GitHub](https://github.com/deepakdotdevs)
 
 ---
