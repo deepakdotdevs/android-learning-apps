@@ -19,11 +19,12 @@ This project shows how to pass data between Activities using Explicit Intents an
 
 ---
 
-## 🖼️ App Screenshots
+## 🖼️ App Screenshots  
 
 | Screen | Preview | Description |
 |:--|:--:|:--|
-| **Home Screen** | ![Home Screen](https://raw.githubusercontent.com/deepakdotdevs/android-learning-apps/refs/heads/master/Intent/screenshots/Home_Screen.jpeg) | 🏠 Displays the main interface where users can enter text or notes. |
-| **Explicit Intent Screen** | ![Explicit Screen](https://raw.githubusercontent.com/deepakdotdevs/android-learning-apps/refs/heads/master/Intent/screenshots/Explicit_Screen.jpeg) | 🎯 Demonstrates explicit intent — passing data from one activity to another. |
-| **Implicit Intent Screen** | ![Implicit Screen](https://raw.githubusercontent.com/deepakdotdevs/android-learning-apps/refs/heads/master/Intent/screenshots/Implicit_Screen.jpeg) | 🔗 Shows implicit intent for sharing text content via other apps. |
+| **Home Screen** | <img src="https://raw.githubusercontent.com/deepakdotdevs/android-learning-apps/master/Intent/screenshots/Home_Screen.jpeg" alt="Home Screen" width="250" style="border-radius:12px;"/> | 🏠 Displays the main interface where users can enter text or notes. |
+| **Explicit Intent Screen** | <img src="https://raw.githubusercontent.com/deepakdotdevs/android-learning-apps/master/Intent/screenshots/Explicit_Screen.jpeg" alt="Explicit Intent Screen" width="250" style="border-radius:12px;"/> | 🎯 Demonstrates explicit intent — passing data from one activity to another. |
+| **Implicit Intent Screen** | <img src="https://raw.githubusercontent.com/deepakdotdevs/android-learning-apps/master/Intent/screenshots/Implicit_Screen.jpeg" alt="Implicit Intent Screen" width="250" style="border-radius:12px;"/> | 🔗 Shows implicit intent for sharing text content via other apps. |
+
 
